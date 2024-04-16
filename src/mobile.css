@@ -1,0 +1,54 @@
+/* Update the CSS for the parent container holding multiple Mobile components */
+.mobile-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: space-around; /* Distribute space evenly between cards */
+}
+
+/* CSS for each individual Mobile card */
+.main {
+    flex: 0 1 calc(25% - 40px); /* Adjust width to fit four cards per row */
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px; /* Decrease margin to fit more cards */
+    max-width: 250px; /* Decrease maximum width for each card */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box-shadow for highlighting */
+}
+
+
+.image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 1.5rem; /* Bigger font size for title */
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1rem; /* Smaller font size for price */
+    /* color: #666; */
+    margin-bottom: 10px;
+    color: black;
+}
+
+button {
+    padding: 8px 16px;
+    border: black;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "image": "https://source.unsplash.com/200x300/?iphone",
+    "name": "iPhone 13",
+    "price": 999.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?samsung-galaxy",
+    "name": "Samsung Galaxy S22",
+    "price": 899.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?google-pixel",
+    "name": "Google Pixel 6",
+    "price": 799.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?oneplus",
+    "name": "OnePlus 10",
+    "price": 699.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?xiaomi",
+    "name": "Xiaomi Mi 12",
+    "price": 599.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?huawei",
+    "name": "Huawei P50",
+    "price": 699.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?sony-xperia",
+    "name": "Sony Xperia 5 IV",
+    "price": 799.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?lg-smartphone",
+    "name": "LG Velvet 3",
+    "price": 699.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?motorola-razr",
+    "name": "Motorola Razr 3",
+    "price": 1499.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?asus-rog",
+    "name": "Asus ROG Phone 6",
+    "price": 1299.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?oppo",
+    "name": "Oppo Find X5",
+    "price": 899.99
+  },
+  {
+    "image": "https://source.unsplash.com/200x300/?vivo",
+    "name": "Vivo X80",
+    "price": 799.99
+  },
+  
+  {
+    "image": "https://source.unsplash.com/200x300/?iphone",
+    "name": "iPhone 13",
+    "price": 999.99
+},
+{
+    "image": "https://source.unsplash.com/200x300/?iphone-x",
+    "name": "iPhone X",
+    "price": 599.99
+},
+{
+    "image": "https://source.unsplash.com/200x300/?iphone-11",
+    "name": "iPhone 11",
+    "price": 799.99
+},
+{
+  "image": "https://source.unsplash.com/200x300/?iphone-15",
+  "name": "iPhone 15",
+  "price": 999.99
+}
+]
